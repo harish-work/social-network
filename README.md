@@ -5,7 +5,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/harish-work/vendor_management.git
+$ https://github.com/harish-work/social-network.git
 ```
 
 Create a virtual environment to install dependencies in and activate it:
